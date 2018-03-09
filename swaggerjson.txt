@@ -70,9 +70,7 @@
 
     "description": "Get Geneva dash board links. ",
 
-    "operationId": "Operations_List"
-
-    ],
+    "operationId": "Operations_List",
 
     "responses": {
 
